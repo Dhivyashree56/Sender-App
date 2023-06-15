@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sender App</string>
+    <string name="write">Write</string>
+    <string name="read">Read</string>
+    <string name="clear">Clear</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="go_back">Go Back</string>
+    <string name="text_view">Text view</string>
+</resources>
